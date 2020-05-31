@@ -2,7 +2,7 @@
 
 Live Site: <https://dee1985.github.io/css/>
 
-Landing page: ![screen clip of home screen](landing.png)
+Landing page (black line on right is from screen clipping): ![screen clip of home screen](landing.png)
 
 Description and Usage: Using CSS, this site was an exercise to evaluate CSS knowledge.
 
